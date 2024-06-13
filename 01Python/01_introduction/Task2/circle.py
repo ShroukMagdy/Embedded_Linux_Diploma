@@ -1,6 +1,5 @@
 import sys
-
-pi = 3.14159
+from math import pi
 
 #input from user
 GivenNumber = input("Please enter the radius (e.g., 3 or 3.15):")
